@@ -37,7 +37,7 @@ body {
 	/* This is form adjustment block */
 	position: absolute;
 	top: 40%;
-	left: 7%;
+	left: 10%;
 	margin: -150px 0 0 -150px;
 	width:800px;
 	height:400px;
@@ -70,7 +70,7 @@ pre {
 	color: #345feb;
 	position: absolute;
 	top: 40%;
-	left: 115%;
+	left: 112%;
 	margin: -150px 0 0 -150px;
 	width:100px;
 	height:400px;
